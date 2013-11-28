@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrightnessEnergyProfile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="brn">Set Brightness Level:</string>
+    <string name="mw">632.21 mW</string>
+    <string name="max">255</string>
+    <string name="est">Estimated power used:</string>
+
+</resources>
